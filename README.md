@@ -14,4 +14,6 @@ Running the code:
 Lessons:
 --------
 * Using threads and semaphores in Python
-* How a [shebang](http://en.wikipedia.org/wiki/Shebang_(Unix)) can be used to tell the shell how to execute a file
+* How a [shebang][1] can be used to tell the shell how to execute a file
+
+  [1]: http://en.wikipedia.org/wiki/Shebang_(Unix)
